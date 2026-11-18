@@ -1,16 +1,32 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📚 Data Structures (DS) Programs
 
-Currently, two official plugins are available:
+Welcome to my **Data Structures Programs** repository!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This repository contains programs related to Data Structures, created as part of my learning and practice.
 
-## React Compiler
+## 💻 About This Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Contains source code of various Data Structures programs.
+- Programs are created for learning and educational purposes.
+- Code is organized to make it easy to understand and practice.
+- I have used a little help from AI while creating and improving some of the programs.
 
-## Expanding the ESLint configuration
+## ⚠️ Important Note
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**All programs are not available right now.**
+
+I am gradually adding more programs to this repository. Some programs may be missing and will be uploaded over time.
+More programs and updates will be added soon.
+
+## 🛠️ Languages & Tools
+
+- **Programming Languages:** C / Python (depending on the program)
+- **AI Assistance:** Used a little AI assistance.
+
+## 🎯 Purpose
+
+The main purpose of this repository is to maintain all my Data Structures programs in one place and make them easily accessible for learning and revision.
+
+
+
